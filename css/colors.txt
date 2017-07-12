@@ -1,0 +1,3 @@
+naranja 	F05A23
+azul		13BAC3
+verde		C9D42E
